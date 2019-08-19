@@ -4,8 +4,7 @@ A pytorch implementation of neural style transfer, modified from pytorch tutoria
 
 ## Requirements
 
-- python3
-- pytorch
+- torch
 - torchvision
 - numpy
 - Pillow
